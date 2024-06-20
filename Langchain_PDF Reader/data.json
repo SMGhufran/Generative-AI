@@ -1,0 +1,27 @@
+[
+    {
+      "First Name": "John",
+      "Last Name": "Doe",
+      "Email": "johndoe@example.com",
+      "Contact No": "+1234567890",
+      "Country": "USA",
+      "City": "New York"
+    },
+    {
+      "First Name": "Alice",
+      "Last Name": "Smith",
+      "Email": "alice.smith@example.com",
+      "Contact No": "+1987654321",
+      "Country": "Canada",
+      "City": "Toronto"
+    },
+    {
+      "First Name": "Mohammed",
+      "Last Name": "Ali",
+      "Email": "m.ali@example.com",
+      "Contact No": "+9876543210",
+      "Country": "UAE",
+      "City": "Dubai"
+    }
+  ]
+  
